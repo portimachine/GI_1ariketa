@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#taskForm {
+    margin-bottom: 20px;
+}
+#taskList li {
+    margin-top: 5px;
+}
